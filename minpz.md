@@ -13,3 +13,10 @@
 
 # [minpz HDDT](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
 [![](https://cdn.discordapp.com/attachments/1088562913729589258/1098751057066197092/screenshot384.jpg)](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
+
+# [minpz NM](https://github.com/Yumiih/Skins/raw/main/minpz/-_Minpz_Mix_1.0.osk)
+[![](https://cdn.discordapp.com/attachments/1052716407546183744/1098755221766803518/screenshot389.jpg)](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
+
+# [Blueberry](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
+[![](https://cdn.discordapp.com/attachments/1052716407546183744/1098755246676779028/screenshot392.jpg)](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
+
