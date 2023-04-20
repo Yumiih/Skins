@@ -7,7 +7,7 @@
          height "150">
    </a>
 <br>
-  atualizado em
+  atualizado dia
   <b> 20/04/2023 </b>
 </p>
 
