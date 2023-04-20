@@ -5,6 +5,7 @@
     <img src="https://a.ppy.sh/13819731"
          width="150"
          height "150"
+    </img>
   </a>
 <br>
   atualizado em
