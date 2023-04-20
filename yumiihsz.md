@@ -4,7 +4,8 @@
    <a href="https://osu.ppy.sh/users/13819731">
     <img src="https://a.ppy.sh/13819731"
          width="150"
-         height "150"</a>
+         height "150">
+   </a>
 <br>
   atualizado em
   <b> 20/04/2023 </b>
@@ -17,7 +18,7 @@ skin feita por [duff](https://osu.ppy.sh/users/5805029)
  # 
  # 
  # 
-   <p align = "center"
+   <p align="center">
    <a href="https://twitter.com/yumiizada">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
