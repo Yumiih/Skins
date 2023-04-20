@@ -1,5 +1,5 @@
-# Skins
-**Esse hub foi feito para salvar skins minhas e de amigos** 
+# w
+**backup skins** 
 
 feito pela [yumi](https://osu.ppy.sh/users/13819731)
 #
