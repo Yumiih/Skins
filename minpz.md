@@ -19,4 +19,12 @@
 
 # [Blueberry](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098755246676779028/screenshot392.jpg)](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
+<br>
+   <p align="center">
+   <a href="https://twitter.com/yumiizada">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="100" 
+       height="100"></a>
+  <br></br>
+   </p>
 
