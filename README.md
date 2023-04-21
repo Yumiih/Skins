@@ -20,3 +20,12 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        height="180">
   </a>
   
+#
+<br>
+   <p align="center">
+   <a href="https://twitter.com/yumiizada">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="100" 
+       height="100"></a>
+  <br></br>
+   </p>
