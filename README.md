@@ -19,7 +19,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        width="180"
        height="180">
   </a>
-  <a href="ouran.md">
+  <a href="Ouran.md">
   <img src="https://a.ppy.sh/12021503"
        width="180"
        height="180">
