@@ -39,11 +39,16 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
 <br>
   
    <p align="center">
-     Meus negócio ai <br>
+     Meus negócio ai <br><br>
    <a href="https://twitter.com/yumiizada">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="70" 
        height="70"></a>
+  <a href="https://www.twitch.tv/takechan6">
+  <img src="https://i.imgur.com/HM030lk.png" 
+       width="70" 
+       height="70"></a>
+<br>
   <br></br>
    </p>
 
@@ -51,5 +56,5 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
 
 <p align="center">
   <b>Inspirado</b><br><br>
-  🐈‍⬛ <a href="https://github.com/rudj-skinhub/woal">rudj-skinhub </a> 🐈‍⬛
+  🐈‍⬛ <a href="https://github.com/rudj-skinhub/woal">rudj-skinhub</a> 🐈‍⬛
 </p>
