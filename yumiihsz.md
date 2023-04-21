@@ -15,6 +15,10 @@
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="50" 
        height="50"></a>
+     <a href="https://www.twitch.tv/takechan6">
+  <img src="https://i.imgur.com/HM030lk.png" 
+       width="50" 
+       height="50"></a>
 <br>
    </p>
 
