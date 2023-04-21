@@ -1,4 +1,4 @@
-# -Hirata skin
+# -Hirata skin 
 
 <p align="center">
    <a href="https://osu.ppy.sh/users/10188022">
@@ -10,7 +10,14 @@
   atualizado dia
   <b> 20/04/2023 </b>
 </p>
-
+   <p align="center">
+   <a href="https://twitter.com/hirata_otavio">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="50" 
+       height="50"></a>
+<br>
+   </p>
+   
 # [Rafis Lifeline Edit](https://github.com/Yumiih/Skins/raw/main/hirata/Rafis%20Lifeline%20edit.osk)
 [![](https://cdn.discordapp.com/attachments/904498383736143985/1098766964362579968/screenshot396.jpg)](https://github.com/Yumiih/Skins/raw/main/hirata/Rafis%20Lifeline%20edit.osk)
 
@@ -29,11 +36,4 @@
 # [Mathi cursor branco sem trail](https://github.com/Yumiih/Skins/raw/main/hirata/Mathi%20Cursor%20branco%20sem%20trail.osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098774308878307479/screenshot404.jpg)](https://github.com/Yumiih/Skins/raw/main/hirata/Mathi%20Cursor%20branco%20sem%20trail.osk)
 <br>
-# 
-   <p align="center">
-   <a href="https://twitter.com/hirata_otavio">
-  <img src="https://i.imgur.com/PUQ5uWf.png" 
-       width="70" 
-       height="70"></a>
-  <br></br>
-   </p>
+
