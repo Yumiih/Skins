@@ -1,5 +1,5 @@
 # Skins
-**🐈‍⬛ 💦 🥶 🐋🍆** 
+**Hub feito para salvar skins minhas e de amigos**
 
 feito pela [yumi](https://osu.ppy.sh/users/13819731)
 
@@ -27,10 +27,13 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        width="180"
        height="180"></a>
   <a href="julinha.md">
+  <img src="https://a.ppy.sh/14878058"
+       width="180"
+       height="180"></a>
+    <a href="takenohana.md">
   <img src="https://a.ppy.sh/3628613"
        width="180"
        height="180"></a>
-  
 # 
 <br>
   
@@ -42,3 +45,10 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        height="70"></a>
   <br></br>
    </p>
+
+#
+
+<p align="center">
+  <b>Inspirado</b><br><br>
+  🐈‍⬛ <a href="https://github.com/rudj-skinhub/woal">rudj-skinhub </a>
+</p>
