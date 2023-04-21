@@ -15,7 +15,7 @@
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="50" 
        height="50"></a>
-     <a href="https://www.twitch.tv/takechan6">
+     <a href="https://www.twitch.tv/yumiihsz">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="50" 
        height="50"></a>
