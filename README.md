@@ -1,7 +1,10 @@
 #  ✨ Skins ✨
 **Hub feito para salvar minhas skins e de amigos**
 
-feito pela [yumi](https://osu.ppy.sh/users/13819731)
+<div align="center">
+  <sub>Ainda está sendo feito<br>Criado por 
+  <a href="https://osu.ppy.sh/users/13819731">Yumi</a> 💙
+</div>
 
 #
 <p align="center">
