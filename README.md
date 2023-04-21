@@ -14,3 +14,9 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        width="180"
        height="180">
   </a>
+  <a href="hirata.md">
+  <img src="https://a.ppy.sh/10188022"
+       width="180"
+       height="180">
+  </a>
+  
