@@ -62,7 +62,7 @@ skin feita por [duff](https://osu.ppy.sh/users/5805029)
 # [rolling girl](https://github.com/Yumiih/Skins/raw/main/yumiihsz/rolling%20girl.osk)
 [![](https://user-images.githubusercontent.com/69032200/233734698-961655af-b62a-431f-bfda-bee8ce3779e3.png)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/rolling%20girl.osk)
 
-# Mania Skins
+# 🎹
 
 # [Eliminate294's Mania Skin](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Eliminate294's%20Mania%20Skin.osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098837167419170919/screenshot423.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Eliminate294's%20Mania%20Skin.osk)
