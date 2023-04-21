@@ -8,7 +8,7 @@
    </a>
 <br>
   atualizado dia
-  <b> 20/04/2023 </b>
+  <b> 21/04/2023 </b>
 </p>
    <p align="center">
    <a href="https://twitter.com/yumiizada">
@@ -17,6 +17,10 @@
        height="50"></a>
      <a href="https://www.twitch.tv/yumiihsz">
   <img src="https://i.imgur.com/HM030lk.png" 
+       width="50" 
+       height="50"></a>
+  <a href="https://www.last.fm/user/YumiihSZ">
+  <img src="https://cdn.discordapp.com/attachments/692651533225033759/1098865977975918632/awg.png" 
        width="50" 
        height="50"></a>
 <br>
