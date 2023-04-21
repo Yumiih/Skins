@@ -12,19 +12,21 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
  <a href="minpz.md">
   <img src="https://a.ppy.sh/10159709"  
        width="180"
-       height="180">
-  </a>
+       height="180"></a>
   <a href="hirata.md">
   <img src="https://a.ppy.sh/10188022"
        width="180"
-       height="180">
-  </a>
+       height="180"></a>
   <a href="Ouran.md">
   <img src="https://a.ppy.sh/12021503"
        width="180"
-       height="180">
-  </a>
-
+       height="180"></a>
+<br>
+  <a href="julinha.md">
+  <img src="https://a.ppy.sh/14878058"
+       width="180"
+       height="180"></a>
+  
 # 
 <br>
    <p align="center">
