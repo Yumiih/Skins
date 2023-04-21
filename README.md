@@ -51,7 +51,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
   <img src="https://a.ppy.sh/14918386"
        width="180"
        height="180"></a>
-      <a href="linbunnysz.md">
+      <a href="finalbang4.md">
   <img src="https://a.ppy.sh/5221058"
        width="180"
        height="180"></a>
