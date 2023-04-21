@@ -53,6 +53,9 @@ skin feita por [duff](https://osu.ppy.sh/users/5805029)
 # [tekkito aleph edit](https://github.com/Yumiih/Skins/raw/main/yumiihsz/tekkito%20aleph%20edit.osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098842844699054170/screenshot429.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/tekkito%20aleph%20edit.osk)
 
+# [mellow](https://github.com/Yumiih/Skins/raw/main/yumiihsz/mellow.osk)
+[![](https://user-images.githubusercontent.com/69032200/233739236-56cca0b1-d447-4f9a-afb4-543125e57c6f.png)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/mellow.osk)
+
 # [qcat aristia](https://github.com/Yumiih/Skins/raw/main/yumiihsz/QRISTIA.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098842844900372480/screenshot428.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/QRISTIA.osk)
 
