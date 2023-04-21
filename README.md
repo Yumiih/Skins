@@ -53,7 +53,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="70" 
        height="70"></a>
-  <a href="https://www.twitch.tv/takechan6">
+  <a href="https://www.twitch.tv/yumiihsz">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="70" 
        height="70"></a>
