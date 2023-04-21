@@ -35,7 +35,7 @@ skin feita por [duff](https://osu.ppy.sh/users/5805029)
 # [boop_29](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167050068058/screenshot424.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 
-# [Vaxei old but kirito](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20Vaxei%20old%20but%20kirito.osk)
+# [Vaxei old but kirito](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20Vaxei%20old%20but%20kirito.osk) AR11
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167851180092/screenshot421.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20Vaxei%20old%20but%20kirito.osk)
 
 # [- Rushia](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-_Rushia.osk)
