@@ -43,6 +43,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
   <img src="https://a.ppy.sh/14127691"
        width="180"
        height="180"></a>
+  
 # 
 <br>
   
