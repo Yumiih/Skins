@@ -34,6 +34,11 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
   <img src="https://a.ppy.sh/3628613"
        width="180"
        height="180"></a>
+      <a href="eduzenhooo.md">
+  <img src="https://a.ppy.sh/18406506"
+       width="180"
+       height="180"></a>
+<br>
   
 # 
 <br>
