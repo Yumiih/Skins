@@ -11,7 +11,7 @@
   <b> 21/04/2023 </b>
 </p>
    <p align="center">
-     <a href="https://www.twitch.tv/takechan6">
+     <a href="https://www.twitch.tv/l3afzera">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="50" 
        height="50"></a>
