@@ -69,6 +69,10 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
   <img src="https://i.imgur.com/HM030lk.png" 
        width="70" 
        height="70"></a>
+  <a href="https://www.last.fm/user/YumiihSZ">
+  <img src="https://cdn.discordapp.com/attachments/692651533225033759/1098865977975918632/awg.png" 
+       width="70" 
+       height="70"></a>
 <br>
   <br></br>
    </p>
