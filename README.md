@@ -25,7 +25,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
    <p align="center">
    <a href="https://twitter.com/yumiizada">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
-       width="100" 
-       height="100"></a>
+       width="70" 
+       height="70"></a>
   <br></br>
    </p>
