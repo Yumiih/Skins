@@ -11,7 +11,7 @@
   <b> 20/04/2023 </b>
 </p>
    <p align="center">
-   <a href="https://twitter.com/hirata_otavio">
+   <a href="https://twitter.com/yumiizada">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="50" 
        height="50"></a>
