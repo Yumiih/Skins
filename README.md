@@ -27,7 +27,7 @@ feito pela [yumi](https://osu.ppy.sh/users/13819731)
        width="180"
        height="180"></a>
   <a href="julinha.md">
-  <img src="https://a.ppy.sh/14878058"
+  <img src="https://a.ppy.sh/3628613"
        width="180"
        height="180"></a>
   
