@@ -30,3 +30,9 @@
 
 # [- 『BlooXoo』 -](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
 [![](https://cdn.discordapp.com/attachments/1072350624835973161/1098795417648496681/screenshot133.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
+
+# [Aristia(Edit)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
+[![](https://cdn.discordapp.com/attachments/1052716407546183744/1098807111208669204/screenshot412.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
+
+# [Chitanda](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
+[![](https://media.discordapp.net/attachments/1052716407546183744/1098807111011541012/screenshot411.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
