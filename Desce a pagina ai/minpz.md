@@ -16,5 +16,10 @@
     <img src="https://cdn.discordapp.com/attachments/640948562540363805/897987340956471326/IMG_20191202_114535981.png"
          width="200"
          height="300"></a>
+     <a href="https://github.com/Yumiih/Skins/blob/main/README.md">
+    <img src="https://cdn.discordapp.com/attachments/1052716407546183744/1099166611690225684/image.png"
+         width="300"
+         height="300"></a>
+    
 
 </p>
