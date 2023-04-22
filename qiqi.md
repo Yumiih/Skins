@@ -12,10 +12,8 @@
 </p>
    <a href="https://osu.ppy.sh/community/forums/topics/1679931?n=1">
   <img src="https://assets.ppy.sh/profile-badges/dtt-2023.png" 
-       width="86" 
-       height="40"></a>
-  
-<br>
+       width="90" 
+       height="44"></a>
    
 # [AristiaEdit Mystia](https://github.com/Yumiih/Skins/raw/main/qiqi/AristiaEdit_Mistya.osk)
 [![](https://osu.ppy.sh/ss/18558434/3ea3)](https://github.com/Yumiih/Skins/raw/main/qiqi/AristiaEdit_Mistya.osk)
