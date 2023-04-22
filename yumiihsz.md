@@ -63,7 +63,7 @@ skin feita por [duff](https://osu.ppy.sh/users/5805029)
 [![](https://user-images.githubusercontent.com/69032200/233734698-961655af-b62a-431f-bfda-bee8ce3779e3.png)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/rolling%20girl.osk)
 
 # [cemiiskin](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Byonick%201.1.osk)
-[![](https://osu.ppy.sh/ss/18558410/2925)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Byonick%201.1.osk)
+[![](https://osu.ppy.sh/ss/18558416/39a3)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Byonick%201.1.osk)
 
 # 🎹 Mania Skin
 
