@@ -75,4 +75,3 @@
 
 # [『BlooMoon』 - {Aristia} (KyNets Edit)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/%E3%80%8EBlooMoon%E3%80%8F%20-%20%7BAristia%7D%20(KyNets%20Edit).osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098837167658237952/screenshot422.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/%E3%80%8EBlooMoon%E3%80%8F%20-%20%7BAristia%7D%20(KyNets%20Edit).osk)
-
