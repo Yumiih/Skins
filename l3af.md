@@ -1,10 +1,10 @@
-# l3af skins
+# L3af skins
 
 <p align="center">
    <a href="https://osu.ppy.sh/users/14127691">
     <img src="https://a.ppy.sh/14127691"
          width="150"
-         height "150">
+         height="150">
    </a>
 <br>
   atualizado dia
