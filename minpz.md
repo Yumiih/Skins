@@ -1,7 +1,7 @@
 # Minpz skin
 
 <p align="left">
-   <a href="README.md">🔙</a>
+   <a href="README.md">◀️</a>
 </p>
 
 <p align="center">
