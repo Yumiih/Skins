@@ -1,9 +1,5 @@
 # yumiihsz skins
 
-<p align="left">
-   <a href="README.md">◀️</a>
-</p>
-
 <p align="center">
    <a href="https://osu.ppy.sh/users/13819731">
     <img src="https://a.ppy.sh/13819731"
