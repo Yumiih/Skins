@@ -4,7 +4,7 @@
    <a href="https://osu.ppy.sh/users/3628613">
     <img src="https://a.ppy.sh/3628613"
          width="150"
-         height "150">
+         height="150">
    </a>
 <br>
   atualizado dia
