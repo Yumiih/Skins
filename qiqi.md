@@ -6,6 +6,7 @@
          width="150"
          height="150">
    </a>
+   
 <br>
   atualizado dia
   <b> 21/04/2023 </b>
@@ -16,8 +17,8 @@
        width="90" 
        height="44"></a>
 </div>
+<br>
 
-   
 # [AristiaEdit Mystia](https://github.com/Yumiih/Skins/raw/main/qiqi/AristiaEdit_Mistya.osk)
 [![](https://osu.ppy.sh/ss/18558434/3ea3)](https://github.com/Yumiih/Skins/raw/main/qiqi/AristiaEdit_Mistya.osk)
 
