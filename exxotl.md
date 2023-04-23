@@ -36,4 +36,3 @@
 
 # [skin dt hamster](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_hamster.osk)
 [![](https://cdn.discordapp.com/attachments/905555878877470741/1099584387789619230/screenshot480.png)](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_hamster.osk)
-)]()
