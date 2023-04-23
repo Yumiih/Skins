@@ -1,4 +1,4 @@
-# yumiihsz skins
+# saewon skins
 
 <p align="center">
    <a href="https://osu.ppy.sh/users/12855946">
