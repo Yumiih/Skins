@@ -27,7 +27,7 @@
        width="180"
        height="180"></a>
 <br>
-  <a href="Ouran.md">
+  <a href="ouran.md">
   <img src="https://a.ppy.sh/12021503"
        width="180"
        height="180"></a>
