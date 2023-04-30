@@ -27,7 +27,7 @@
    </p>
    
 # [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
-[![](https://osu.ppy.sh/ss/18574373/5a50)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
+[![](https://osu.ppy.sh/ss/18574376/cb12)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
 
 # [- minhoca loka](https://github.com/Yumiih/Skins/blob/main/minhocaloka/-_minhoca_loka.osk)
 [![](https://osu.ppy.sh/ss/18574364/8009)](https://github.com/Yumiih/Skins/blob/main/minhocaloka/-_minhoca_loka.osk)
