@@ -28,6 +28,12 @@
 # [EZPro](https://github.com/Yumiih/Skins/raw/main/serasona/EZPro.osk)
 [![](https://cdn.discordapp.com/attachments/905555878877470741/1099597820215951413/screenshot486.jpg)](https://github.com/Yumiih/Skins/raw/main/serasona/EZPro.osk)
 
+# [AristiaSerasona](https://github.com/Yumiih/Skins/blob/main/serasona/AristiaSerasona.osk)
+[![](https://osu.ppy.sh/ss/18577915/6506)](https://github.com/Yumiih/Skins/blob/main/serasona/AristiaSerasona.osk)
+
+# [NM Hatsune Miku Arnaldo](https://drive.google.com/file/d/1HJt6rxHIn2x9YRWA3AKNbe_3zmauLaIM/view)
+[![](https://osu.ppy.sh/ss/18577917/8219)](https://drive.google.com/file/d/1HJt6rxHIn2x9YRWA3AKNbe_3zmauLaIM/view)
+
 # 🍉 CTB skins
 
 # [zerokteditbrasil](https://github.com/Yumiih/Skins/raw/main/serasona/-_zerokteditbrasil.osk)
