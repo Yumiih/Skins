@@ -26,17 +26,20 @@
 <br>
    </p>
 
- # [Kurumiw Elohere](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
+# [Kurumiw Elohere](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
  [![](https://osu.ppy.sh/ss/18583075/da84)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
  
- # [Kurumiw Rafis](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
+# [Kurumiw Rafis](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
  [![](https://osu.ppy.sh/ss/18560747/b2fc)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
  
- # [Yumi ♡](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
+# [Yumi ♡](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
    [![](https://cdn.discordapp.com/attachments/905555878877470741/1098728965948063845/screenshot372.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
 
 # [boop_29](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167050068058/screenshot424.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
+
+# [laranja DT](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
+ [![](https://osu.ppy.sh/ss/18584623/d888)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
 
 # [Vaxei old but kirito](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20Vaxei%20old%20but%20kirito.osk) AR11
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167851180092/screenshot421.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20Vaxei%20old%20but%20kirito.osk)
