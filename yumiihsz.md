@@ -27,7 +27,7 @@
    </p>
 
  # [Kurumiw Elohere](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
- [![](https://cdn.discordapp.com/attachments/761350425483935744/1098761945215143966/screenshot394.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
+ [![](https://osu.ppy.sh/ss/18583075/da84)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20elohere.osk)
  
  # [Kurumiw Rafis](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
  [![](https://osu.ppy.sh/ss/18560747/b2fc)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
