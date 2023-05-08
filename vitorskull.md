@@ -29,4 +29,4 @@
 [![](https://osu.ppy.sh/ss/18588482/6e8b)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Rafis%202018-03-26%20HDDT.osk)
 
 # [Aristia(VitorSkull Edit)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Aristia(VitorSkull%20Edit).osk)
-[![](https://osu.ppy.sh/ss/18588478/5bfa)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Aristia(VitorSkull%20Edit).osk)]()
+[![](https://osu.ppy.sh/ss/18588478/5bfa)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Aristia(VitorSkull%20Edit).osk)]
