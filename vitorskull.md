@@ -22,7 +22,7 @@
 <br>
    </p>
    
-# [Vaxei 2023)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Vaxei%202023.osk)
+# [Vaxei 2023](https://github.com/Yumiih/Skins/raw/main/vitorskull/Vaxei%202023.osk)
 [![](https://osu.ppy.sh/ss/18588487/8ce6)](https://github.com/Yumiih/Skins/raw/main/vitorskull/Vaxei%202023.osk)
 
 # [Rafis 2018-03-26 HDDT](https://github.com/Yumiih/Skins/raw/main/vitorskull/Rafis%202018-03-26%20HDDT.osk)
