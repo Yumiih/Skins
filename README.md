@@ -11,7 +11,7 @@
 #
 <p align="center">
   <a href="yumiihsz.md">
-    <img src="https://a.ppy.sh/13819731"
+    <img src="w"
          width="180"
          height="180"></a>
   <a href="https://github.com/Kurumiww/w/blob/main/skins.md">
