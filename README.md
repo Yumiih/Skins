@@ -116,5 +116,5 @@
 
 <p align="center">
   <b>Inspirado</b><br><br>
-  🐈‍⬛ <a href="https://github.com/rudj-skinhub/woal">rudj-skinhub</a> 🐈‍⬛
+   😎 <a href="https://github.com/rudj-skinhub/woal">rudj-skinhub</a> 😎
 </p>
