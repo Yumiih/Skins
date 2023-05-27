@@ -26,8 +26,8 @@
 <br>
    </p>
  
-# [laranja DT](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
- [![](https://osu.ppy.sh/ss/18584613/a17f)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
+# [laranja DT](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
+ [![](https://osu.ppy.sh/ss/18584613/a17f)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
    
 # [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
 [![](https://osu.ppy.sh/ss/18574376/cb12)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
