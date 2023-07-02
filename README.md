@@ -90,9 +90,6 @@
   <img src="https://a.ppy.sh/10223298"
        width="180"
        height="180"></a>
-  <img src="https://a.ppy.sh/18563131"
-       width="180"
-       height="180"></a>
        <a href="meias.md">
          
 # 
