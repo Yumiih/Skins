@@ -26,7 +26,7 @@
 <br>
    </p>
  
-# [laranja DT](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
+# [Brafiz](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
  [![](https://osu.ppy.sh/ss/18584613/a17f)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
    
 # [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
