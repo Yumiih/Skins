@@ -53,7 +53,7 @@
 # [- OMORI -](https://github.com/Yumiih/Skins/raw/main/yumiihsz/%E3%80%8C%20OMORI%20%E3%80%8D.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098842844451586079/screenshot430.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/%E3%80%8C%20OMORI%20%E3%80%8D.osk)
 
-# [RYUKAAAAY MONKOOOO](https://github.com/Yumiih/Skins/raw/main/yumiihsz/tekkito%20aleph%20edit.osk)
+# [RYUKAAAAY MONKOOOO](https://github.com/Yumiih/Skins/raw/main/yumiihsz/ryuk%20monko.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098842845324001301/screenshot427.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/tekkito%20aleph%20edit.osk)
 
 # [tekkito aleph edit](https://github.com/Yumiih/Skins/raw/main/yumiihsz/tekkito%20aleph%20edit.osk)
