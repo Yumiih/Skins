@@ -32,8 +32,11 @@
 # [Kurumiw Rafis](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
  [![](https://osu.ppy.sh/ss/18560747/b2fc)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Kurumi%20Rafis.osk)
  
+# [Gawr Gura](https://drive.google.com/file/d/1fNQblrprNpPPh5X91qjsGa2_RXE21xBt/view?usp=sharing)
+[![](https://osu.akatsuki.gg/ss/W37rNDFf.jpeg)](https://drive.google.com/file/d/1fNQblrprNpPPh5X91qjsGa2_RXE21xBt/view?usp=sharing) 
+
 # [Yumi ♡](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
-   [![](https://cdn.discordapp.com/attachments/905555878877470741/1098728965948063845/screenshot372.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
+[![](https://cdn.discordapp.com/attachments/905555878877470741/1098728965948063845/screenshot372.jpg)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Yumi%20%E2%99%A1.osk)
 
 # [boop_29](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167050068058/screenshot424.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
