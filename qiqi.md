@@ -11,11 +11,13 @@
   atualizado dia
   <b> 21/04/2023 </b>
 </p>
+
 <div align="left">
    <a href="https://osu.ppy.sh/community/forums/topics/1679931?n=1">
   <img src="https://assets.ppy.sh/profile-badges/dtt-2023.png" 
-       width="90" 
-       height="44"></a>
+       width="110" 
+       height="60"></a>
+
 </div>
 <br>
 
