@@ -26,6 +26,7 @@
   <img src="https://a.ppy.sh/10188022"
        width="180"
        height="180"></a>
+<br>
   <a href="ouran.md">
   <img src="https://a.ppy.sh/12021503"
        width="180"
@@ -42,6 +43,7 @@
   <img src="https://a.ppy.sh/18406506"
        width="180"
        height="180"></a>
+<br>
       <a href="l3af.md">
   <img src="https://a.ppy.sh/14127691"
        width="180"
@@ -58,6 +60,7 @@
   <img src="https://a.ppy.sh/5221058"
        width="180"
        height="180"></a>
+<br>
       <a href="qiqi.md">
   <img src="https://a.ppy.sh/15251627"
        width="180"
@@ -74,6 +77,7 @@
   <img src="https://a.ppy.sh/12855946"
        width="180"
        height="180"></a>
+<br>
       <a href="xasuna.md">
   <img src="https://a.ppy.sh/7875811"
        width="180"
@@ -90,6 +94,7 @@
     <img src="https://a.ppy.sh/18563131"
          width="180"
          height="180"></a>
+<br>
       <a href="credible1.md">
     <img src="https://a.ppy.sh/22907823"
          width="180"
