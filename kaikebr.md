@@ -1,4 +1,4 @@
-![image](https://github.com/Yumiih/Skins/assets/69032200/fd2508b0-c368-4f47-ab8f-1bd7292aa9eb)# KaikeBR skins
+# KaikeBR skins
 
 <p align="center">
    <a href="https://osu.ppy.sh/users/13721982">
