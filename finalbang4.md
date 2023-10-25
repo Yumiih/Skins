@@ -26,7 +26,7 @@
 [![](https://cdn.discordapp.com/attachments/866884194739552296/1098856371442692117/screenshot007.jpg)](https://github.com/Yumiih/Skins/blob/main/finalbang4/dddx15longtrail.osk)
 
 # [GUMI_v1.0](https://github.com/Yumiih/Skins/raw/main/finalbang4/GUMI_v1.0.osk)
-[![](https://osu.ppy.sh/ss/18866311/3aaahoste)](https://github.com/Yumiih/Skins/raw/main/finalbang4/GUMI_v1.0.osk)
+[![](https://osu.ppy.sh/ss/18866311/3aaa)](https://github.com/Yumiih/Skins/raw/main/finalbang4/GUMI_v1.0.osk)
 
 # [N_a_n_o](https://github.com/Yumiih/Skins/raw/main/finalbang4/N_a_n_o.osk)
 [![](https://osu.ppy.sh/ss/18866317/82bd)](https://github.com/Yumiih/Skins/raw/main/finalbang4/N_a_n_o.osk)
