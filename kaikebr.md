@@ -8,7 +8,7 @@
    </a>
 <br>
   atualizado dia
-  <b> 13/10/2023 </b>
+  <b> 30/10/2023 </b>
 </p>
    <p align="center">
    <a href="https://twitter.com/KaikeBR_">
