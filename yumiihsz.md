@@ -41,6 +41,9 @@
 # [boop_29](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 [![](https://media.discordapp.net/attachments/1052716407546183744/1098837167050068058/screenshot424.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/boop.osk)
 
+# [- kurumiwwwwwww](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20kurumiwwwwwww.osk)
+ [![](https://osu.ppy.sh/ss/18874039/1854)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/-%20kurumiwwwwwww.osk)
+
 # [laranja DT](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
  [![](https://osu.ppy.sh/ss/18584623/d888)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/laranja_rafis_vaxei_minhcoa_Loka.osk)
 
