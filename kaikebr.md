@@ -37,6 +37,9 @@
 # [-_Kurumi_Fofa_Kaike_edit](https://github.com/Yumiih/Skins/raw/main/kaikebr/-_Kurumi_Fofa_Kaike_edit.osk)
 [![](https://cdn.discordapp.com/attachments/1162144746811170927/1162397883505590292/v0wi1WC.jpg?ex=653bca63&is=65295563&hm=7dd91b266274dc83aafe53d0668711d9fb53f3ef58ba548560f038fac1875b7d&)](https://github.com/Yumiih/Skins/raw/main/kaikebr/-_Kurumi_Fofa_Kaike_edit.osk)
 
+# [Kurumi - KaikeBR Edit Denovo](https://github.com/Yumiih/Skins/raw/main/kaikebr/Kurumi_-_KaikeBR_Edit_Denovo.osk)
+[![](https://cdn.discordapp.com/attachments/1162144746811170927/1168692026963927060/screenshot146.jpg?ex=6552b044&is=65403b44&hm=fc305bcdef5cf7d95c497bc043d9bb196b4bbfa51acfb3317022d44bd6c79d67&)](https://github.com/Yumiih/Skins/raw/main/kaikebr/Kurumi_-_KaikeBR_Edit_Denovo.osk)
+
 # [KaikeBR_MonkoEdit](https://github.com/Yumiih/Skins/raw/main/kaikebr/KaikeBR_MonkoEdit.osk)
 [![](https://cdn.discordapp.com/attachments/1162144746811170927/1162398414894547065/15gHNvy.jpg?ex=653bcae2&is=652955e2&hm=1781ac70eb225e9dfbbd6df3b6e9284a5ab891f1ba98cdabebc5fcbcbc00b76c&)](https://github.com/Yumiih/Skins/raw/main/kaikebr/KaikeBR_MonkoEdit.osk)
 
