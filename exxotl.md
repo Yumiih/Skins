@@ -22,6 +22,12 @@
 <br>
    </p>
 
+# [AristiaEdit](https://drive.google.com/file/d/1lEwVx-oNDHiCcNK_8Z_XupJQXsFwMeOo/view?usp=sharing)
+[![](https://media.discordapp.net/attachments/987841857360908350/1196845648746643476/image.png?ex=65b91c5e&is=65a6a75e&hm=b882eecb56598750350d8f543f0704e630b86f7246dfdb7eb20ac8c49c7bda05&=&width=1192&height=670)](https://drive.google.com/file/d/1lEwVx-oNDHiCcNK_8Z_XupJQXsFwMeOo/view?usp=sharing)
+
+# [skin DT ONLY](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_only.osk)
+[![](https://cdn.discordapp.com/attachments/987841857360908350/1099582606544224286/screenshot478.jpg)](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_only.osk)
+
 # [skin DT](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt.osk)
 [![](https://osu.ppy.sh/ss/18560920/e28f)](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt.osk)
 
@@ -30,9 +36,6 @@
 
 # [aristia cursor branco](https://github.com/Yumiih/Skins/raw/main/Exxotl/aristia_cursor_branco.osk)
 [![](https://osu.ppy.sh/ss/18560934/4736)](https://github.com/Yumiih/Skins/raw/main/Exxotl/aristia_cursor_branco.osk)
-
-# [skin DT ONLY](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_only.osk)
-[![](https://cdn.discordapp.com/attachments/987841857360908350/1099582606544224286/screenshot478.jpg)](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_only.osk)
 
 # [skin dt hamster](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_hamster.osk)
 [![](https://cdn.discordapp.com/attachments/905555878877470741/1099584387789619230/screenshot480.png)](https://github.com/Yumiih/Skins/raw/main/Exxotl/skin_dt_hamster.osk)
