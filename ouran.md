@@ -25,7 +25,7 @@
 # 🎹 Mania skins
 
 # [R Skin (Bars)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.0_Bars.osk)
-[![](https://cdn.discordapp.com/attachments/1033290289185566781/1098761772002988092/screenshot029.jpg)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.0_Bars.osk)
+[![](https://osu.ppy.sh/ss/19056504/b87f)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.0_Bars.osk)
 
 # [R Skin ColorFadeLN (bars)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
 [![](https://osu.ppy.sh/ss/18558289/2763)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
