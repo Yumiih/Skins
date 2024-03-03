@@ -23,16 +23,16 @@
    </p>
    
 # [Burakku Shipu](https://github.com/Yumiih/Skins/raw/main/takenohana/Burakku%20Shipu.osk)
-[![](https://cdn.discordapp.com/attachments/1072350624835973161/1098793003482624051/screenshot405.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/Burakku%20Shipu.osk)
+[![](https://osu.ppy.sh/ss/19056514/94da)](https://github.com/Yumiih/Skins/raw/main/takenohana/Burakku%20Shipu.osk)
 
 # [myangelaosora Rafis](https://github.com/Yumiih/Skins/raw/main/takenohana/%23%20myangelaosora%20Rafis.osk)
-[![](https://cdn.discordapp.com/attachments/1072350624835973161/1098793260920606742/screenshot130.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/%23%20myangelaosora%20Rafis.osk)
+[![](https://osu.ppy.sh/ss/19056518/f6da)](https://github.com/Yumiih/Skins/raw/main/takenohana/%23%20myangelaosora%20Rafis.osk)
 
 # [- 『BlooXoo』 -](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
-[![](https://cdn.discordapp.com/attachments/1072350624835973161/1098795417648496681/screenshot133.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
+[![](https://osu.ppy.sh/ss/19056521/11c7)](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
 
 # [Aristia(Edit)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
-[![](https://cdn.discordapp.com/attachments/1052716407546183744/1098807111208669204/screenshot412.jpg)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
+[![](https://osu.ppy.sh/ss/19056523/ef97)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
 
 # [Chitanda](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
-[![](https://media.discordapp.net/attachments/1052716407546183744/1098807111011541012/screenshot411.jpg?width=1191&height=670)](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
+[![](https://osu.ppy.sh/ss/19056526/0d44)](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
