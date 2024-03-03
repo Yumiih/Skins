@@ -23,10 +23,10 @@
    </p>
 
 # [Serasona No Numbers](https://github.com/Yumiih/Skins/raw/main/serasona/Serasona_No_Numbers.osk)
-[![](https://cdn.discordapp.com/attachments/905555878877470741/1099597198527844352/screenshot482.jpg)](https://github.com/Yumiih/Skins/raw/main/serasona/Serasona_No_Numbers.osk)
+[![](https://osu.ppy.sh/ss/19056569/527b)](https://github.com/Yumiih/Skins/raw/main/serasona/Serasona_No_Numbers.osk)
 
 # [EZPro](https://github.com/Yumiih/Skins/raw/main/serasona/EZPro.osk)
-[![](https://cdn.discordapp.com/attachments/905555878877470741/1099597820215951413/screenshot486.jpg)](https://github.com/Yumiih/Skins/raw/main/serasona/EZPro.osk)
+[![](https://osu.ppy.sh/ss/19056571/31e4)](https://github.com/Yumiih/Skins/raw/main/serasona/EZPro.osk)
 
 # [AristiaSerasona](https://github.com/Yumiih/Skins/blob/main/serasona/AristiaSerasona.osk)
 [![](https://osu.ppy.sh/ss/18577915/6506)](https://github.com/Yumiih/Skins/blob/main/serasona/AristiaSerasona.osk)
