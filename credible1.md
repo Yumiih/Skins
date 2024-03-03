@@ -23,13 +23,13 @@
    </p>
 
 # [Rafis HDDT lifeline](https://drive.google.com/file/d/1au9yWdHrVeBQhduBD-X2Bs4Eqd__7fZk/view?usp=sharing)
-[![](https://drive.google.com/file/d/1au9yWdHrVeBQhduBD-X2Bs4Eqd__7fZk/view?usp=sharing)](https://osu.ppy.sh/ss/19056610/5b83)
+[![](https://osu.ppy.sh/ss/19056610/5b83)](https://drive.google.com/file/d/1au9yWdHrVeBQhduBD-X2Bs4Eqd__7fZk/view?usp=sharing)
 
 # [MonkoEdit](https://github.com/Yumiih/Skins/raw/main/credible1/MonkoEdit.osk)
 [![](https://osu.ppy.sh/ss/19056608/ece8)](https://github.com/Yumiih/Skins/raw/main/credible1/MonkoEdit.osk)
 
 # [ - # re;owoTuna v1.1 『Selyu』 # -.osk](https://drive.google.com/file/d/13u0y1KuhlL4b6K0nAT576DyuEX_SGIFC/view?usp=sharing)
-[![](https://drive.google.com/file/d/13u0y1KuhlL4b6K0nAT576DyuEX_SGIFC/view?usp=sharing)](https://osu.ppy.sh/ss/19056620/05cc)
+[![](https://osu.ppy.sh/ss/19056620/05cc)](https://drive.google.com/file/d/13u0y1KuhlL4b6K0nAT576DyuEX_SGIFC/view?usp=sharing)
 
 # [Rafis_but_SZ](https://github.com/Yumiih/Skins/raw/main/credible1/Rafis_but_SZ.osk)
 [![](https://osu.ppy.sh/ss/19056604/a700)](https://github.com/Yumiih/Skins/raw/main/credible1/Rafis_but_SZ.osk)
