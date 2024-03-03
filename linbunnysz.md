@@ -29,8 +29,5 @@
 # [-《CK》 WhiteCat 2.0 ~ old](https://github.com/Yumiih/Skins/raw/main/linbunnysz/-%20%20%20%20%20%20%20%20%20%E3%80%8ACK%E3%80%8B%20WhiteCat%202.0%20_%20old.osk)
 [![](https://cdn.discordapp.com/attachments/692651533225033759/1098833817608929370/screenshot018.jpg)](https://github.com/Yumiih/Skins/raw/main/linbunnysz/-%20%20%20%20%20%20%20%20%20%E3%80%8ACK%E3%80%8B%20WhiteCat%202.0%20_%20old.osk)
 
-# [- 『Wintherest』 -](https://drive.google.com/file/d/1a5aANzpjSwJ9FWc06mUPnJxptbVQhxBw/view?usp=share_link)
-[![](https://cdn.discordapp.com/attachments/692651533225033759/1098833936181887006/screenshot022.jpg)](https://drive.google.com/file/d/1a5aANzpjSwJ9FWc06mUPnJxptbVQhxBw/view?usp=share_link)
-
 # [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/linbunnysz/Prawilosc%20vJP%20without%20followpoints.osk)
-[![](https://cdn.discordapp.com/attachments/692651533225033759/1098833991714480218/screenshot031.jpg)](https://github.com/Yumiih/Skins/raw/main/linbunnysz/Prawilosc%20vJP%20without%20followpoints.osk)
+[![](https://osu.ppy.sh/ss/19056554/56a6)](https://github.com/Yumiih/Skins/raw/main/linbunnysz/Prawilosc%20vJP%20without%20followpoints.osk)
