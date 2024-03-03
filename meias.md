@@ -23,7 +23,7 @@
    </p>
    
 # [milkteaism](https://github.com/Yumiih/Skins/raw/main/meias/milkteaism.osk)
-[![](https://cdn.discordapp.com/attachments/1052716407546183744/1124876777299382373/screenshot566.jpg)](https://github.com/Yumiih/Skins/raw/main/meias/milkteaism.osk)
+[![](https://osu.ppy.sh/ss/19056581/78f5)](https://github.com/Yumiih/Skins/raw/main/meias/milkteaism.osk)
 
 # [vv yellow cursor](https://github.com/Yumiih/Skins/raw/main/meias/vv%20yellow%20cursor.osk)
 [![](https://osu.ppy.sh/ss/18680306/1590)](https://github.com/Yumiih/Skins/raw/main/meias/vv%20yellow%20cursor.osk)
@@ -44,7 +44,7 @@
 [![](https://osu.ppy.sh/ss/18680291/121e)](https://github.com/Yumiih/Skins/raw/main/meias/carrotovdz.osk)
 
 # [Aricin new](https://github.com/Yumiih/Skins/raw/main/meias/aricin%20new.osk)
-[![](https://cdn.discordapp.com/attachments/1052716407546183744/1124872371610865815/screenshot550.jpg)](https://github.com/Yumiih/Skins/raw/main/meias/aricin%20new.osk)
+[![](https://osu.ppy.sh/ss/19056583/f733)](https://github.com/Yumiih/Skins/raw/main/meias/aricin%20new.osk)
 
 # [Aricin old](https://github.com/Yumiih/Skins/raw/main/meias/aricin%20old.osk)
 [![](https://osu.ppy.sh/ss/18680283/afb5)](https://github.com/Yumiih/Skins/raw/main/meias/aricin%20old.osk)
