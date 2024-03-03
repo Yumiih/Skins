@@ -23,7 +23,7 @@
    </p>
    
 # [- 《CK》 WhiteCat 2.1 ~ old-blue-lite](https://github.com/Yumiih/Skins/raw/main/eduzenhooo/-%20%20%20%20%20%20%20%20%20%E3%80%8ACK%E3%80%8B%20WhiteCat%202.1%20_%20old-blue-lite.osk)
-[![](https://cdn.discordapp.com/attachments/1052716407546183744/1098803134500966470/screenshot408.jpg)](https://github.com/Yumiih/Skins/raw/main/eduzenhooo/-%20%20%20%20%20%20%20%20%20%E3%80%8ACK%E3%80%8B%20WhiteCat%202.1%20_%20old-blue-lite.osk)
+[![](https://osu.ppy.sh/ss/19056532/7306)](https://github.com/Yumiih/Skins/raw/main/eduzenhooo/-%20%20%20%20%20%20%20%20%20%E3%80%8ACK%E3%80%8B%20WhiteCat%202.1%20_%20old-blue-lite.osk)
 
 # [SR_Aetrna_private_remake](https://github.com/Yumiih/Skins/raw/main/eduzenhooo/SR_Aetrna_private_remake.osk)
 [![](https://cdn.discordapp.com/attachments/1052716407546183744/1098803134316429322/screenshot410.jpg)](https://github.com/Yumiih/Skins/raw/main/eduzenhooo/SR_Aetrna_private_remake.osk)
