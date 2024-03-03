@@ -77,6 +77,9 @@
 # [cemiiskin](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Byonick%201.1.osk)
 [![](https://osu.ppy.sh/ss/18558416/39a3)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Byonick%201.1.osk)
 
+# [A]()
+[![](https://osu.ppy.sh/ss/19056597/97c6)](https://github.com/Yumiih/Skins/raw/main/yumiihsz/a.osk)
+
 # 🎹 Mania Skin
 
 # [Eliminate294's Mania Skin](https://github.com/Yumiih/Skins/raw/main/yumiihsz/Eliminate294's%20Mania%20Skin.osk)
