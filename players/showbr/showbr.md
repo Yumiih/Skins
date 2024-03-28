@@ -16,6 +16,6 @@
 # [-《HNJ》 Kozeki Ui 『WC』](https://drive.google.com/u/1/uc?id=1O89hgc8PQN48duzzDz2ENfOcrrTGiCLz&export=download)
 [![](https://osu.ppy.sh/ss/18846316/fbc4)](https://drive.google.com/u/1/uc?id=1O89hgc8PQN48duzzDz2ENfOcrrTGiCLz&export=download)
 
-# [doki_dt_mix_v3](https://github.com/Yumiih/Skins/raw/main/showbr/doki_dt_mix_v3.osk)
-[![](https://osu.ppy.sh/ss/18846319/ea02)](https://github.com/Yumiih/Skins/raw/main/showbr/doki_dt_mix_v3.osk)
+# [doki_dt_mix_v3](https://github.com/Yumiih/Skins/raw/main/players/showbr/doki_dt_mix_v3.osk)
+[![](https://osu.ppy.sh/ss/18846319/ea02)](https://github.com/Yumiih/Skins/raw/main/players/showbr/doki_dt_mix_v3.osk)
 

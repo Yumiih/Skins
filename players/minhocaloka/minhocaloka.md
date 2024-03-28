@@ -26,14 +26,14 @@
 <br>
    </p>
  
-# [Brafiz](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
- [![](https://osu.ppy.sh/ss/18584613/a17f)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Brafiz.osk)
+# [Brafiz](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/Brafiz.osk)
+ [![](https://osu.ppy.sh/ss/18584613/a17f)](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/Brafiz.osk)
    
-# [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
-[![](https://osu.ppy.sh/ss/18574376/cb12)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
+# [Prawilosc vJP without followpoints](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
+[![](https://osu.ppy.sh/ss/18574376/cb12)](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/Prawilosc_vJP_without_followpoints.osk)
 
-# [- minhoca loka](https://github.com/Yumiih/Skins/blob/main/minhocaloka/-_minhoca_loka.osk)
-[![](https://osu.ppy.sh/ss/18574364/8009)](https://github.com/Yumiih/Skins/blob/main/minhocaloka/-_minhoca_loka.osk)
+# [- minhoca loka](https://github.com/Yumiih/Skins/blob/main/players/minhocaloka/-_minhoca_loka.osk)
+[![](https://osu.ppy.sh/ss/18574364/8009)](https://github.com/Yumiih/Skins/blob/main/players/minhocaloka/-_minhoca_loka.osk)
 
-# [AristiaEdit](https://github.com/Yumiih/Skins/raw/main/minhocaloka/-_AristiaEdittrail_laranja.osk)
-[![](https://osu.ppy.sh/ss/18574338/fd0a)](https://github.com/Yumiih/Skins/raw/main/minhocaloka/-_AristiaEdittrail_laranja.osk)
+# [AristiaEdit](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/-_AristiaEdittrail_laranja.osk)
+[![](https://osu.ppy.sh/ss/18574338/fd0a)](https://github.com/Yumiih/Skins/raw/main/players/minhocaloka/-_AristiaEdittrail_laranja.osk)

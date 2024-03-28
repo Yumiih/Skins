@@ -22,17 +22,17 @@
 <br>
    </p>
    
-# [Burakku Shipu](https://github.com/Yumiih/Skins/raw/main/takenohana/Burakku%20Shipu.osk)
-[![](https://osu.ppy.sh/ss/19056514/94da)](https://github.com/Yumiih/Skins/raw/main/takenohana/Burakku%20Shipu.osk)
+# [Burakku Shipu](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Burakku%20Shipu.osk)
+[![](https://osu.ppy.sh/ss/19056514/94da)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Burakku%20Shipu.osk)
 
-# [myangelaosora Rafis](https://github.com/Yumiih/Skins/raw/main/takenohana/%23%20myangelaosora%20Rafis.osk)
-[![](https://osu.ppy.sh/ss/19056518/f6da)](https://github.com/Yumiih/Skins/raw/main/takenohana/%23%20myangelaosora%20Rafis.osk)
+# [myangelaosora Rafis](https://github.com/Yumiih/Skins/raw/main/players/takenohana/%23%20myangelaosora%20Rafis.osk)
+[![](https://osu.ppy.sh/ss/19056518/f6da)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/%23%20myangelaosora%20Rafis.osk)
 
-# [- 『BlooXoo』 -](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
-[![](https://osu.ppy.sh/ss/19056521/11c7)](https://github.com/Yumiih/Skins/raw/main/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
+# [- 『BlooXoo』 -](https://github.com/Yumiih/Skins/raw/main/players/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
+[![](https://osu.ppy.sh/ss/19056521/11c7)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/-%20%E3%80%8EBlooXoo%E3%80%8F%20-.osk)
 
-# [Aristia(Edit)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
-[![](https://osu.ppy.sh/ss/19056523/ef97)](https://github.com/Yumiih/Skins/raw/main/takenohana/Aristia(Edit).osk)
+# [Aristia(Edit)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Aristia(Edit).osk)
+[![](https://osu.ppy.sh/ss/19056523/ef97)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Aristia(Edit).osk)
 
-# [Chitanda](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
-[![](https://osu.ppy.sh/ss/19056526/0d44)](https://github.com/Yumiih/Skins/raw/main/takenohana/Chitanda.osk)
+# [Chitanda](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Chitanda.osk)
+[![](https://osu.ppy.sh/ss/19056526/0d44)](https://github.com/Yumiih/Skins/raw/main/players/takenohana/Chitanda.osk)

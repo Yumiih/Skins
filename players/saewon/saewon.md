@@ -12,11 +12,11 @@
 <br>
    </p>
 
-# [Aristia(Edit) Onimai](https://github.com/Yumiih/Skins/raw/main/saewon/Aristia(Edit).osk)
-[![](https://osu.ppy.sh/ss/18562506/e2ae)](https://github.com/Yumiih/Skins/raw/main/saewon/Aristia(Edit).osk)
+# [Aristia(Edit) Onimai](https://github.com/Yumiih/Skins/raw/main/players/saewon/Aristia(Edit).osk)
+[![](https://osu.ppy.sh/ss/18562506/e2ae)](https://github.com/Yumiih/Skins/raw/main/players/saewon/Aristia(Edit).osk)
 
-# [Rafis 2017 XD](https://github.com/Yumiih/Skins/raw/main/saewon/Rafis_2017_XD.osk)
-[![](https://osu.ppy.sh/ss/18562512/0a8d)](https://github.com/Yumiih/Skins/raw/main/saewon/Rafis_2017_XD.osk)
+# [Rafis 2017 XD](https://github.com/Yumiih/Skins/raw/main/players/saewon/Rafis_2017_XD.osk)
+[![](https://osu.ppy.sh/ss/18562512/0a8d)](https://github.com/Yumiih/Skins/raw/main/players/saewon/Rafis_2017_XD.osk)
 
-# [boop](https://github.com/Yumiih/Skins/raw/main/saewon/boop.osk)
-[![](https://osu.ppy.sh/ss/18562513/c39c)](https://github.com/Yumiih/Skins/raw/main/saewon/boop.osk)
+# [boop](https://github.com/Yumiih/Skins/raw/main/players/saewon/boop.osk)
+[![](https://osu.ppy.sh/ss/18562513/c39c)](https://github.com/Yumiih/Skins/raw/main/players/saewon/boop.osk)

@@ -19,11 +19,11 @@
    </p>
 
 
-# [minpz HDDT](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
-[![](https://osu.ppy.sh/ss/19056476/4024)](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
+# [players/minpz HDDT](https://github.com/Yumiih/Skins/raw/main/players/minpz/minpz_dthd_rafis_edit.osk)
+[![](https://osu.ppy.sh/ss/19056476/4024)](https://github.com/Yumiih/Skins/raw/main/players/minpz/minpz_dthd_rafis_edit.osk)
 
-# [minpz NM](https://github.com/Yumiih/Skins/raw/main/minpz/-_Minpz_Mix_1.0.osk)
-[![](https://osu.ppy.sh/ss/19056479/46b0)](https://github.com/Yumiih/Skins/raw/main/minpz/minpz_dthd_rafis_edit.osk)
+# [players/minpz NM](https://github.com/Yumiih/Skins/raw/main/players/minpz/-_Minpz_Mix_1.0.osk)
+[![](https://osu.ppy.sh/ss/19056479/46b0)](https://github.com/Yumiih/Skins/raw/main/players/minpz/minpz_dthd_rafis_edit.osk)
 
-# [Blueberry](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
-[![](https://osu.ppy.sh/ss/19056482/37f0)](https://github.com/Yumiih/Skins/raw/main/minpz/Blueberry.osk)
+# [Blueberry](https://github.com/Yumiih/Skins/raw/main/players/minpz/Blueberry.osk)
+[![](https://osu.ppy.sh/ss/19056482/37f0)](https://github.com/Yumiih/Skins/raw/main/players/minpz/Blueberry.osk)

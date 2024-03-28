@@ -1,4 +1,4 @@
-# Ouran skin 
+# players/Ouran skin 
 
 <p align="center">
    <a href="https://osu.ppy.sh/users/12021503">
@@ -24,13 +24,13 @@
    
 # 🎹 Mania skins
 
-# [R Skin (Bars)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.0_Bars.osk)
-[![](https://osu.ppy.sh/ss/19056504/b87f)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.0_Bars.osk)
+# [R Skin (Bars)](https://github.com/Yumiih/Skins/raw/main/players/Ouran/R_Skin_v3.0_Bars.osk)
+[![](https://osu.ppy.sh/ss/19056504/b87f)](https://github.com/Yumiih/Skins/raw/main/players/Ouran/R_Skin_v3.0_Bars.osk)
 
-# [R Skin ColorFadeLN (bars)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
-[![](https://osu.ppy.sh/ss/18558289/2763)](https://github.com/Yumiih/Skins/raw/main/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
+# [R Skin ColorFadeLN (bars)](https://github.com/Yumiih/Skins/raw/main/players/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
+[![](https://osu.ppy.sh/ss/18558289/2763)](https://github.com/Yumiih/Skins/raw/main/players/Ouran/R_Skin_v3.1_4_7k_Color_Fade_LN.osk)
 
 # 🐋 Standard skins
 
-# [ryan fancy edit](https://github.com/Yumiih/Skins/raw/main/Ouran/ryan_fancy_edit.osk)
-[![](https://osu.ppy.sh/ss/18558294/3b22)](https://github.com/Yumiih/Skins/raw/main/Ouran/ryan_fancy_edit.osk)
+# [ryan fancy edit](https://github.com/Yumiih/Skins/raw/main/players/Ouran/ryan_fancy_edit.osk)
+[![](https://osu.ppy.sh/ss/18558294/3b22)](https://github.com/Yumiih/Skins/raw/main/players/Ouran/ryan_fancy_edit.osk)

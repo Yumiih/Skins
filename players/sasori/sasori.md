@@ -22,9 +22,9 @@
 <br>
    </p>
 
-# [NikaDe_Kurisu_Makise](https://github.com/Yumiih/Skins/raw/main/sasori/-_NikaDe_Kurisu_Makise_-.osk)
-[![](https://osu.ppy.sh/ss/19056589/3930)](https://github.com/Yumiih/Skins/raw/main/sasori/-_NikaDe_Kurisu_Makise_-.osk)
+# [NikaDe_Kurisu_Makise](https://github.com/Yumiih/Skins/raw/main/players/sasori/-_NikaDe_Kurisu_Makise_-.osk)
+[![](https://osu.ppy.sh/ss/19056589/3930)](https://github.com/Yumiih/Skins/raw/main/players/sasori/-_NikaDe_Kurisu_Makise_-.osk)
 
-# [- SK_Mathi_1.0_-_DT.osk](https://github.com/Yumiih/Skins/raw/main/sasori/-_SK_Mathi_1.0_-_DT.osk)
-[![](https://osu.ppy.sh/ss/18866281/b4cd)](https://github.com/Yumiih/Skins/raw/main/sasori/-_SK_Mathi_1.0_-_DT.osk)
+# [- SK_Mathi_1.0_-_DT.osk](https://github.com/Yumiih/Skins/raw/main/players/sasori/-_SK_Mathi_1.0_-_DT.osk)
+[![](https://osu.ppy.sh/ss/18866281/b4cd)](https://github.com/Yumiih/Skins/raw/main/players/sasori/-_SK_Mathi_1.0_-_DT.osk)
 
