@@ -21,8 +21,5 @@
 # [Rasgabu DT](https://github.com/Yumiih/Skins/raw/main/players/julinha/rasgabu_dt.osk)
 [![](https://osu.ppy.sh/ss/19056508/189e)](https://github.com/Yumiih/Skins/raw/main/players/julinha/rasgabu_dt.osk)
 
-# [Bacon Blue Rasgabu](https://github.com/Yumiih/Skins/raw/main/players/julinha/bacon_blue_rasgabuceta.osk)
-[![](https://cdn.discordapp.com/attachments/761350425483935744/1098766773752451132/screenshot069.jpg)](https://github.com/Yumiih/Skins/raw/main/players/julinha/bacon_blue_rasgabuceta.osk)
-
 # [Ferrin Aristia Doremy](https://github.com/Yumiih/Skins/blob/main/players/julinha/ferrin_aristia_doremy.osk)
 [![](https://osu.ppy.sh/ss/19056511/c476)](https://github.com/Yumiih/Skins/blob/main/players/julinha/ferrin_aristia_doremy.osk)
