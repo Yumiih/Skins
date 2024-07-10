@@ -90,3 +90,6 @@
 
 # [『BlooMoon』 - {Aristia} (KyNets Edit)](https://github.com/Yumiih/Skins/raw/main/players/yumiihsz/%E3%80%8EBlooMoon%E3%80%8F%20-%20%7BAristia%7D%20(KyNets%20Edit).osk)
 [![](https://osu.ppy.sh/ss/19056472/6183)](https://github.com/Yumiih/Skins/raw/main/players/yumiihsz/%E3%80%8EBlooMoon%E3%80%8F%20-%20%7BAristia%7D%20(KyNets%20Edit).osk)
+
+# [Stargaze Playfield](https://osu.mamesosu.net/ss/gZkJ4qF3.jpeg)
+[![](https://osu.mamesosu.net/ss/gZkJ4qF3.jpeg)](https://github.com/Yumiih/Skins/raw/main/players/yumiihsz/-%20%20%20%20%20hiodassoih.osk)
